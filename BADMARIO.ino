@@ -1,8 +1,3 @@
-/**
- * Made with Duckuino, an open-source project.
- * Check the license at 'https://github.com/Dukweeno/Duckuino/blob/master/LICENSE'
- */
-
 #include "Keyboard.h"
 
 void typeKey(uint8_t key)
